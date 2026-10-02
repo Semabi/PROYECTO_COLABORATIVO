@@ -1,5 +1,7 @@
 Lider: Sebastián Martinez Bibanco
 
+Sumar:2+2:4
 
+resta: 5-3 = 2
 
-Resta: 5-3 = 2
+multiplicar: 2*2 = 4
