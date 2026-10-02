@@ -1,3 +1,5 @@
 Lider: Sebastián Martinez Bibanco
 
 Sumar:2+2:4
+
+resta: 5-3 = 2
